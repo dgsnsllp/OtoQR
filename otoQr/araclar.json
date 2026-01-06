@@ -1,0 +1,120 @@
+[
+  {
+    "Id": "e043ae00-1f8b-41fd-8576-63411ce4e14c",
+    "Plaka": "23dm633",
+    "Marka": "opel",
+    "Model": "2013",
+    "Telefon": "05345918547",
+    "Sifre": null,
+    "BakimZamani": null,
+    "ServisKayitlari": [],
+    "IletisimMesajlari": []
+  },
+  {
+    "Id": "9da148e8-a8f5-4420-bf76-fde741b9cf4f",
+    "Plaka": "65 hjk 034",
+    "Marka": "bmw",
+    "Model": "2001",
+    "Telefon": "05379292157",
+    "Sifre": null,
+    "BakimZamani": null,
+    "ServisKayitlari": [],
+    "IletisimMesajlari": []
+  },
+  {
+    "Id": "3a8ea420-3717-4c68-b4b2-55c95eb9937c",
+    "Plaka": "23",
+    "Marka": "55",
+    "Model": "555",
+    "Telefon": "05652552323",
+    "Sifre": null,
+    "BakimZamani": null,
+    "ServisKayitlari": [],
+    "IletisimMesajlari": []
+  },
+  {
+    "Id": "bba5863d-188c-4df5-9676-bf5d846d4372",
+    "Plaka": "65 hjk 034",
+    "Marka": "bmw",
+    "Model": "2001",
+    "Telefon": "05379292157",
+    "Sifre": null,
+    "BakimZamani": null,
+    "ServisKayitlari": [],
+    "IletisimMesajlari": []
+  },
+  {
+    "Id": "e71317b8-ce40-4602-b753-becabf55ff2d",
+    "Plaka": "65 hjk 034",
+    "Marka": "bmw",
+    "Model": "2001",
+    "Telefon": "05379292157",
+    "Sifre": null,
+    "BakimZamani": null,
+    "ServisKayitlari": [],
+    "IletisimMesajlari": []
+  },
+  {
+    "Id": "d7a67f99-6c1e-49a7-9868-f15827580651",
+    "Plaka": "65 hjk 034",
+    "Marka": "bmw",
+    "Model": "2001",
+    "Telefon": "05379292157",
+    "Sifre": null,
+    "BakimZamani": null,
+    "ServisKayitlari": [],
+    "IletisimMesajlari": []
+  },
+  {
+    "Id": "5c47a10d-cc72-4534-9468-cf80de716ead",
+    "Plaka": "55 gh 696",
+    "Marka": "ford",
+    "Model": "2016",
+    "Telefon": "05695585959",
+    "Sifre": "123456789",
+    "BakimZamani": null,
+    "ServisKayitlari": [],
+    "IletisimMesajlari": []
+  },
+  {
+    "Id": "bf0ffd4d-6bbb-4c22-8ae7-a799a53e71c5",
+    "Plaka": "23 ld 880",
+    "Marka": "BMW",
+    "Model": "2022",
+    "Telefon": "05345918547",
+    "Sifre": "123456",
+    "BakimZamani": null,
+    "ServisKayitlari": [],
+    "IletisimMesajlari": []
+  },
+  {
+    "Id": "87ff506f-63d1-4d05-aa91-c51964515f30",
+    "Plaka": "21 pb 051",
+    "Marka": "opel",
+    "Model": "2016",
+    "Telefon": "05345918547",
+    "Sifre": "123456",
+    "BakimZamani": null,
+    "ServisKayitlari": [],
+    "IletisimMesajlari": []
+  },
+  {
+    "Id": "66509c85-c10d-489d-82fa-62b93904f7ec",
+    "Plaka": "34 bjk 034",
+    "Marka": "FORD",
+    "Model": "2023",
+    "Telefon": "05112223333",
+    "Sifre": "123456789",
+    "BakimZamani": null,
+    "ServisKayitlari": [],
+    "IletisimMesajlari": [
+      {
+        "Tarih": "2026-01-06T22:36:27.0324694+03:00",
+        "AdSoyad": "HAL\u0130L ",
+        "Mesaj": "HATALI PARK",
+        "SikayetTuru": null,
+        "FotoUrl": null
+      }
+    ]
+  }
+]
